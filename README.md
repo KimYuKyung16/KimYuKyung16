@@ -3,11 +3,9 @@
   <h3> Hello, I'm KimYuKyung 🐥
 
   <br/>
-  <br/>
+  <!-- <br/> -->
 
-  [<img src="https://img.shields.io/badge/TechBlog-000000?style=flat&logo=tistory&logoColor=white"/>](https://ganggangstory.tistory.com/)
-
-  <img src="https://github.com/KimYuKyung16/KimYuKyung16/assets/81006438/5dbc8d0e-eba7-4394-88a2-11d9c7c77650" width="30%"/>
+ <!-- [<img src="https://img.shields.io/badge/TechBlog-000000?style=flat&logo=tistory&logoColor=white"/>](https://ganggangstory.tistory.com/) -->
 </div>
 
 <div align="center">
