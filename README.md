@@ -1,11 +1,11 @@
 <div width=100% align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34BCE2,100:0179E9&height=150&section=header&text=GANG%20STORY&fontSize=30&fontColor=ffffff" />
   <h2>Hello, I'm KimYuKyung</h2>
-  <h5>🦖 "Frontend Developer" & Backend Developer 🦖</h5>
+  <h4>🦖 "Frontend Developer" & Backend Developer 🦖</h4>
   <br />
   
   <div width=100%>
-    <div align="left">
+    <div align="center">
       <h4>Frontend Skills</h4>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
     </div>
     <br />
-    <div align="left">
+    <div align="center">
       <h4>Backend Skills</h4>
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
@@ -38,7 +38,7 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
     </div>
     <br />
-    <div align="left">
+    <div align="center">
       <h4>ETC Skills & Tools</h4>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
@@ -48,7 +48,11 @@
     </div>
     <br />
     <br />
-    -------------------------- ( ͡° ͜ʖ ͡°) -------------------------- 
+    ---------------------------------- ( ͡° ͜ʖ ͡°) ----------------------------------
+    <br/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34BCE2,100:0179E9&height=80&section=footer&fontColor=ffffff" />
+    
+  
 
   </div>
 </div>
