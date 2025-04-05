@@ -1,6 +1,6 @@
 <div width=100% align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34BCE2,100:0179E9&height=130&width=100%&section=header&text=GANG%20STORY&fontSize=30&fontColor=DBEBFB" />
-  <h3>Hello, I'm KimYuKyung</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34BCE2,100:0179E9&height=150&section=header&text=GANG%20STORY&fontSize=30&fontColor=ffffff" />
+  <h2>Hello, I'm KimYuKyung</h2>
   <h5>🦖 "Frontend Developer" & Backend Developer 🦖</h5>
   <br />
   
