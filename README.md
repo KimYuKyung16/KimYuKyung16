@@ -1,5 +1,7 @@
 <div width=100% align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34BCE2,100:0179E9&height=150&section=header&text=GANG%20STORY&fontSize=30&fontColor=ffffff" />
+  
+  🐟&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐟&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐟
   <h2>Hello, I'm KimYuKyung</h2>
   <h4>🦖 "Frontend Developer" & Backend Developer 🦖</h4>
   <br />
@@ -48,7 +50,7 @@
     </div>
     <br />
     <br />
-    ---------------------------------- ( ͡° ͜ʖ ͡°) ----------------------------------
+    🐟&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐟&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐟
     <br/>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34BCE2,100:0179E9&height=80&section=footer&fontColor=ffffff" />
     
